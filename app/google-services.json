@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "966418046552",
+    "project_id": "ridders-login",
+    "storage_bucket": "ridders-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966418046552:android:05a8824c6dd910e92cf42d",
+        "android_client_info": {
+          "package_name": "com.example.riddlers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966418046552-irsutiu7sqqhdrvuuiph4hgr2rubo345.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riddlers",
+            "certificate_hash": "9d2400f3f501b8ef2f00060d56589eb2779d55f1"
+          }
+        },
+        {
+          "client_id": "966418046552-tp9sl6bbea2mdgnaq0h0de31t3ol16g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTB9v4y0kZCbdPBmXTr7kopwPI6YQQHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966418046552-tp9sl6bbea2mdgnaq0h0de31t3ol16g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
